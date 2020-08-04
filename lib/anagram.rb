@@ -17,6 +17,7 @@ class Anagram
     end 
   end
   
+  return_array
 
 end
 
